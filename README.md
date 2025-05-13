@@ -18,8 +18,10 @@
 ![show_tasks 0 parametresi](https://github.com/user-attachments/assets/23244d11-7947-4912-abb1-71db13d7eb25)
 ![show_tasks 1 parametresi](https://github.com/user-attachments/assets/38496423-0fe4-4c9c-8160-aed2fd88054c)
 - ``` !complete_task <id> ``` Girilen id değerini tamamlanmış olarak işaretlemeyi sağlar.
+
 ![complete_task](https://github.com/user-attachments/assets/325ef725-a725-4657-92ce-538bd0d53c6f)
 -  ``` !delete_task <id> ``` Girilen id değerini silmeyi sağlar.
+  
 ![delete_task](https://github.com/user-attachments/assets/325ef725-a725-4657-92ce-538bd0d53c6f)
 
 ## Unit test sonuçları:
