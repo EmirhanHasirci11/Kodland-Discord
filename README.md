@@ -12,6 +12,7 @@
 ### Discord içerisinde kullanımı
 
 - ``` !add_task <description> ``` Yeni bir görev eklemek için kullanılır. komut yazıldıktan sonra boş bırakılarak içerisine eklenmek istenen görev yazılır.
+
 ![add_task](https://github.com/user-attachments/assets/3144f71b-698e-4dad-8647-52441da7e1dc)
 - ``` !show_tasks <empty,0,1> ``` Eklenen görevleri görebilmek için kullanılır. eğer parametre verilmeden girilirse tüm görevleri listeler. 0 parametresi tamamlanmayan, 1 parametresi ise sadece tamamlanan görevleri gösterir.
 ![show_tasks parametresiz versiyonu](https://github.com/user-attachments/assets/e3a10a6a-c3ba-469e-9363-24a61e2112ad)
